@@ -23,6 +23,7 @@ object App {
     //顶点的数据类型是VD:(String)
     System.out.println("master test")
     System.out.println("hot-fix test")
+    System.out.println("git test1")
     val vertexArray = Array(
       (1L, ("孙少平")),
       (2L, ("孙少安")),

@@ -24,6 +24,7 @@ object App {
     System.out.println("master test")
     System.out.println("hot-fix test")
     System.out.println("git test1")
+     System.out.println("pull test1")
     val vertexArray = Array(
       (1L, ("孙少平")),
       (2L, ("孙少安")),

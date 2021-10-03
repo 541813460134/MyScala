@@ -16,6 +16,7 @@ object App {
 
 
 
+    //git test
     //设置顶点和边，注意顶点和边都是用元组定义的Array
     //顶点的数据类型是VD:(String)
     val vertexArray = Array(
